@@ -3,7 +3,6 @@
 ###
 
 <p align="left">Hello there! 👋<br><br>I’m a passionate and creative professional who thrives on solving complex problems and learning something new every day. With a background in Multimedia and UX/UI Design, I bring a user-centered approach to my work. Currently, I’m expanding my expertise through certifications in IT Programming (IEFP) and Network Management (Cisco).
-<br><br>
 
 ###
 I pride myself on being resilient and persistent, tackling challenges with determination while maintaining a healthy balance of professionalism and a touch of fun. When I’m not immersed in tech, you’ll find me enjoying music or diving into the world of video games—they’re my favorite sources of inspiration and creativity!</p>
