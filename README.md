@@ -11,7 +11,7 @@ My curiosity and love for problem-solving drive me to create effective and visua
 Organized and responsible, I thrive in fast-paced environments and am able to effectively manage multiple projects and deadlines. My attention to detail and strong communication skills allow me to deliver high-quality work that meets the needs of my clients and stakeholders. 
 
 With a diverse skill set and a passion for creating meaningful and impactful designs, I am eager to connect with like-minded professionals and contribute to innovative projects. 
-I am excited about the endless possibilities in the world of technology and am ready to make an impact.</p>
+I am excited about the endless possibilities in the world of technology and I'm ready to make an impact.</p>
 
 ###
 
