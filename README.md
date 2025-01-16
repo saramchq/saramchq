@@ -2,10 +2,16 @@
 
 ###
 
-<p align="left">Hello there! 👋<br><br>I’m a passionate and creative professional who thrives on solving complex problems and learning something new every day. With a background in Multimedia and UX/UI Design, I bring a user-centered approach to my work. Currently, I’m expanding my expertise through certifications in IT Programming (IEFP) and Network Management (Cisco).
+<p align="left">As a certified UX/UI designer with a passion for development and a keen eye for detail, I am constantly seeking new challenges and opportunities to grow and learn. With a strong background in multimedia and a dedication to staying on top of industry trends, I am able to bring a unique perspective to my work. 
 
-###
-I pride myself on being resilient and persistent, tackling challenges with determination while maintaining a healthy balance of professionalism and a touch of fun. When I’m not immersed in tech, you’ll find me enjoying music or diving into the world of video games—they’re my favorite sources of inspiration and creativity!</p>
+I am constantly pushing myself to improve my skills and expand my knowledge, whether it is through self-directed learning or formal education. Currently, I am pursuing a degree in development to further develop my technical abilities and enhance my understanding of coding languages. 
+
+My curiosity and love for problem-solving drive me to create effective and visually appealing designs that meet both user needs and business goals. I am a strong believer in the power of collaboration and enjoy working with cross-functional teams to bring projects to life. 
+
+Organized and responsible, I thrive in fast-paced environments and am able to effectively manage multiple projects and deadlines. My attention to detail and strong communication skills allow me to deliver high-quality work that meets the needs of my clients and stakeholders. 
+
+With a diverse skill set and a passion for creating meaningful and impactful designs, I am eager to connect with like-minded professionals and contribute to innovative projects. 
+I am excited about the endless possibilities in the world of technology and am ready to make an impact.</p>
 
 ###
 
