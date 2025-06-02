@@ -9,6 +9,7 @@ I’m driven by curiosity and a deep passion for continuous learning.
 
 I believe technology is an extension of creativity and within it, I find endless opportunities to grow, express myself, and turn ideas into meaningful, real-world experiences. 💻❤️</p>
 ###
+───────────── ⋆ ˚｡⋆୨♡୧⋆｡˚ ⋆ ─────────────── ⋆ ˚｡⋆୨♡୧⋆｡˚ ⋆ ─────────────── ⋆ ˚｡⋆୨♡୧⋆｡˚ ⋆ ─────────────
 ###
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75BB8&width=435&lines=Oii+!+Eu+sou+a+Sara+%E2%9C%A8%F0%9F%8D%83)](https://git.io/typing-svg)
 
@@ -20,8 +21,7 @@ Sou movida pela minha curiosidade e gigantesca vontade de aprender sempre mais!
 
 Acredito que a tecnologia é uma extensão da criatividade e é nela que encontro infinitas possibilidades para crescer, expressar e transformar ideias em experiências reais!💻♥️</p>
 
-###
-─────────── ⋆ ˚｡⋆୨♡୧⋆｡˚ ⋆ ─────────────── ⋆ ˚｡⋆୨♡୧⋆｡˚ ⋆ ─────────────── ⋆ ˚｡⋆୨♡୧⋆｡˚ ⋆ ───────────
+
 ###
 
 <div align="left">
