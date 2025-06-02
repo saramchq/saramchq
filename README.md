@@ -2,16 +2,13 @@
 
 ###
 
-<p align="left">As a certified UX/UI designer with a passion for development and a keen eye for detail, I am constantly seeking new challenges and opportunities to grow and learn. With a strong background in multimedia and a dedication to staying on top of industry trends, I am able to bring a unique perspective to my work. 
+<p align="left">Chamo-me Sara e sou formada em Multimédia, UX/UI Design e Programação. Tenho experiência prática no desenvolvimento de aplicações web, desde a prototipagem e planeamento da experiência do utilizador até à implementação técnica, tanto no front-end como no back-end.
 
-I am constantly pushing myself to improve my skills and expand my knowledge, whether it is through self-directed learning or formal education. Currently, I am pursuing a degree in development to further develop my technical abilities and enhance my understanding of coding languages. 
+Proativa e muito organizada, estou habituada a trabalhar com prazos e a adaptar-me a diferentes desafios criativos e tecnológicos. Tenho uma elevada atenção ao detalhe e uma sensibilidade visual desenvolvida, o que me permite criar soluções digitais que aliam lógica, funcionalidade e estética.
 
-My curiosity and love for problem-solving drive me to create effective and visually appealing designs that meet both user needs and business goals. I am a strong believer in the power of collaboration and enjoy working with cross-functional teams to bring projects to life. 
+Sou movida pela minha curiosidade e gigantesca vontade de aprender sempre mais!
 
-Organized and responsible, I thrive in fast-paced environments and am able to effectively manage multiple projects and deadlines. My attention to detail and strong communication skills allow me to deliver high-quality work that meets the needs of my clients and stakeholders. 
-
-With a diverse skill set and a passion for creating meaningful and impactful designs, I am eager to connect with like-minded professionals and contribute to innovative projects. 
-I am excited about the endless possibilities in the world of technology and I'm ready to make an impact.</p>
+Acredito que a tecnologia é uma extensão da criatividade e é nela que encontro infinitas possibilidades para crescer, expressar e transformar ideias em experiências reais!💻♥️</p>
 
 ###
 
