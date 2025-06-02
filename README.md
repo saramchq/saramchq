@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C041B9&width=435&lines=Hey!+I'm+Sara+%E2%9C%A8%F0%9F%8D%83)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75BB8&width=435&lines=Oii+!+Eu+sou+a+Sara+%E2%9C%A8%F0%9F%8D%83)](https://git.io/typing-svg)
 
 ###
 
