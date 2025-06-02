@@ -1,7 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79BCF&width=435&lines=Helloo!+I'm+Sara+%E2%9C%A8%F0%9F%8D%83)](https://git.io/typing-svg)
 
-###
 <p align="left">My name is Sara, and I have a background in Multimedia, UX/UI Design, and Programming. I have hands-on experience in developing web applications from prototyping and user experience planning to the technical implementation of both front-end and back-end.
 
 Proactive and highly organized, I’m comfortable working with deadlines and adapting to a wide range of creative and technical challenges. My strong attention to detail and refined visual sense allow me to build digital solutions that balance logic, functionality, and aesthetics.
@@ -10,10 +9,8 @@ I’m driven by curiosity and a deep passion for continuous learning.
 
 I believe technology is an extension of creativity and within it, I find endless opportunities to grow, express myself, and turn ideas into meaningful, real-world experiences. 💻❤️</p>
 ###
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75BB8&width=435&lines=Oii+!+Eu+sou+a+Sara+%E2%9C%A8%F0%9F%8D%83)](https://git.io/typing-svg)
-
 ###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75BB8&width=435&lines=Oii+!+Eu+sou+a+Sara+%E2%9C%A8%F0%9F%8D%83)](https://git.io/typing-svg)
 
 <p align="left">Chamo-me Sara e sou formada em Multimédia, UX/UI Design e Programação. Tenho experiência prática no desenvolvimento de aplicações web, desde a prototipagem e planeamento da experiência do utilizador até à implementação técnica, tanto no front-end como no back-end.
 
