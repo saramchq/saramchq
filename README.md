@@ -1,10 +1,8 @@
-
-
 <!-- Typing SVG -->
 <p align="center">
   <!-- Typing SVG baseado no projeto de DenverCoder1 -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Creative%20Dev%20%26%20UX%2FUI%20Designer;Java%20Lover%20%26%20Full-stack%20student;Always%20learning%20something%20new%20%F0%9F%8C%9F;Coding%20with%20love%20and%20a%20bit%20of%20magic%20%E2%9C%A8&font=Quicksand&center=true&width=500&height=45&color=F79BCF&vCenter=true&pause=1000&size=20" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Creative%20Dev%20%26%20UX%2FUI%20Designer;Always%20learning%20something%20new%20%F0%9F%8C%9F;Coding%20with%20love%20and%20a%20bit%20of%20magic%20%E2%9C%A8&font=Quicksand&center=true&width=500&height=45&color=F79BCF&vCenter=true&pause=1000&size=20" />
   </a>
 </p>
 
