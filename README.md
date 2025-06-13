@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@saralunee"><img width="50px" src="https://img.icons8.com/?size=100&id=WVL_GQzKU8G_&format=png&color=000000"/></a>
+  <a href="https://www.youtube.com/@saralunee"><img width="50px" src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-youtube-64.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/saraluisam/"><img width="32px" src="https://img.icons8.com/?size=100&id=3qlPyTnzzqUx&format=png&color=000000"/></a>
+  <a href="https://www.linkedin.com/in/saraluisam/"><img width="32px" src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-linkedin-48.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/saracoding"><img width="32px" src="https://img.icons8.com/?size=100&id=42859&format=png&color=000000"/></a>
+  <a href="https://twitter.com/saracoding"><img width="32px" src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-twitter-squared-64.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/users/saracoding"><img width="32px" src="https://img.icons8.com/dusk/64/discord.png"/></a>
+  <a href="https://discord.gg/users/saracoding"><img width="32px" src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-discord-40.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="32px" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
