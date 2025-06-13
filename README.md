@@ -9,26 +9,24 @@
 ---
 
 ###
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      
-      <h3>💕 About Me</h3>
-      <p>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+
+  <div style="flex: 1; min-width: 250px; max-width: 500px;">
+    <h3>💕 About Me</h3>
+    <p>
       ✨ Hii! I'm <b>Sara</b>, a sweet mix of a <b>Creative Designer</b> and a <b>Curious Coder</b><br>
       🌸 With a background in <b>Multimedia, UX/UI Design & Programming</b>, I build digital things with love and logic!<br>
       🎀 I enjoy turning dreamy ideas into beautiful and functional web experiences — from <b>prototyping</b> to <b>front-end & back-end</b> development.<br>
       🧁 Super <b>organized</b>, <b>detail-oriented</b>, and always learning something new!
-      </p>
-      <p><i>Channeling my inner magical girl to code with love ✨💻🌙</i></p>
+    </p>
+    <p><i>Channeling my inner magical girl to code with love ✨💻🌙</i></p>
+  </div>
 
-    </td>
+  <div style="flex: 1; min-width: 250px; max-width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=saramchq&show_icons=true&title_color=F79BCF&icon_color=F79BCF&text_color=F6D7E0&bg_color=00000000&border_radius=10" />
+  </div>
 
-    <td valign="top" width="40%">
-      <img src="https://github-readme-stats.vercel.app/api?username=saramchq&show_icons=true&title_color=F79BCF&icon_color=F79BCF&text_color=F6D7E0&bg_color=00000000&border_radius=10" />
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
