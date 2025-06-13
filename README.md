@@ -2,7 +2,7 @@
 
 
 <p align="left">
-  <img src="https://github.com/saramchq/saramchq/raw/main/assets/sailormoon.jpg" width="600" heigh="600" alt="Sailor" /></p>
+  <img src="https://github.com/saramchq/saramchq/blob/main/assets/sara.png" width="600" heigh="600" alt="Sara" /></p>
 
 
 ---
