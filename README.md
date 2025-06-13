@@ -59,12 +59,12 @@
 
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-html-48.png" width="40" title="HTML5"/>
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-css-48.png" width="40" title="CSS3"/>
-<img src="https://img.icons8.com/color/48/php.png" width="40" title="PHP"/>
+<img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-php-48.png" width="40" title="PHP"/>
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-sql-48.png" width="40" title="MySQL"/>
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-python-64.png" width="40" title="Python"/>
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-c-48.png" width="40" title="C"/>
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-c%23-50.png" width="40" title="C#"/>
-<img src="https://img.icons8.com/color/48/c-plus-plus-logo.png](https://github.com/saramchq/saramchq/blob/main/assets/icons8-c-50.png" width="40" title="C++"/>
+<img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-c-50.png" width="40" title="C++"/>
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-.net-32.png" width="40" title=".NET"/>
 <br><br>
 
