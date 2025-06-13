@@ -28,33 +28,31 @@
 
 
 ---
-### 💼 My Magical Toolbox
+<h3>💼 My Magical Toolbox</h3>
 
-🧪 <b>Technologies I've worked with:</b><br>
+🧪 <b>Technologies I've worked with:</b><br><br>
 
-<img src="https://img.icons8.com/color/48/html-5--v1.png" width="30"/> 
-<img src="https://img.icons8.com/color/48/css3.png" width="30"/> 
-<img src="https://img.icons8.com/color/48/javascript--v1.png" width="30"/> 
-<img src="https://img.icons8.com/color/48/php.png" width="30"/> 
-<img src="https://img.icons8.com/color/48/mysql-logo.png" width="30"/> 
-<img src="https://img.icons8.com/color/48/python--v1.png" width="30"/> 
-<img src="https://img.icons8.com/color/48/c-programming.png" width="30"/> 
-<img src="https://img.icons8.com/color/48/c-sharp-logo.png" width="30"/> 
-<img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="30"/> 
-<img src="https://img.icons8.com/color/48/net-framework.png" width="30"/>  
+<img src="https://img.icons8.com/color/48/html-5--v1.png" width="40" title="HTML5"/>
+<img src="https://img.icons8.com/color/48/css3.png" width="40" title="CSS3"/>
+<img src="https://img.icons8.com/color/48/php.png" width="40" title="PHP"/>
+<img src="https://img.icons8.com/color/48/mysql-logo.png" width="40" title="MySQL"/>
+<img src="https://img.icons8.com/color/48/python--v1.png" width="40" title="Python"/>
+<img src="https://img.icons8.com/color/48/c-programming.png" width="40" title="C"/>
+<img src="https://img.icons8.com/color/48/c-sharp-logo.png" width="40" title="C#"/>
+<img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="40" title="C++"/>
+<img src="https://img.icons8.com/color/48/net-framework.png" width="40" title=".NET"/>
 <span style="font-size: 14px;">VB.NET / ASP.NET</span>
 
 <br><br>
 
-🚀 <b>Currently focusing on:</b><br>
-<img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" width="30"/> 
+🚀 <b>Currently focusing on:</b><br><br>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-java-a-general-purpose-computer-programming-language-logo-color-tal-revivo.png" width="40" title="Java"/>  
 <span style="font-size: 14px;">Becoming a Java expert 💻🌸</span>
 
 <br><br>
 
-🎨 <b>Design tools I love:</b><br>
-<img src="https://img.icons8.com/color/48/figma--v1.png" width="30"/> 
-
+🎨 <b>Design tools I love:</b><br><br>
+<img src="https://img.icons8.com/color/48/figma--v1.png" width="40" title="Figma"/>
 
 
 ### 🌐 Let's Be Friends!
