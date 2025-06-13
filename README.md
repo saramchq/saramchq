@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=F79BCF&center=true&vCenter=true&width=435&lines=Heyyy+%F0%9F%91%97+I'm+Sara!;Designer+%E2%9C%A8+Dev+%F0%9F%92%BB+Dreamer+%F0%9F%8C%9C)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif](https://github.com/saramchq/saramchq/blob/main/assets/sailormoon.jpg)"/>
+  <img src="https://github.com/saramchq/saramchq/blob/main/assets/sailormoon.jpg"/>
 </p>
 
 
