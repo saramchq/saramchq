@@ -68,15 +68,12 @@
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-java-58.png" width="40" title=".java"/>
 <br><br>
 
-🚀 <b>Currently focusing on:</b><br><br>
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-java-a-general-purpose-computer-programming-language-logo-color-tal-revivo.png" width="40" title="Java"/>  
-<span style="font-size: 14px;">Becoming a Java expert 💻🌸</span>
-
-<br><br>
 
 🎨 <b>Design tools I love:</b><br><br>
-<img src="https://img.icons8.com/color/48/figma--v1.png" width="40" title="Figma"/>
-
+<img src="https://github.com/saramchq/saramchq/blob/main/assets/figma.png" width="40" title="Figma"/>
+<img src="https://github.com/saramchq/saramchq/blob/main/assets/ps.png" width="40" title="PS"/>
+<img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-illustrator-48.png" width="40" title="Illustrator"/>
+<img src="https://github.com/saramchq/saramchq/blob/main/assets/premiere.png" width="40" title="Premiere"/>
 
 ### 🌐 Let's Be Friends!
 
