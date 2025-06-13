@@ -53,8 +53,8 @@
 
 <p align="center"><h3>💼 My Magical Toolbox</h3></p>
 
-<p align="center">🧪 <b>Technologies I've worked with:</b><br><br></p>
-<p align="center">
+<p align="center">🧪 <b>Technologies I've worked with:</b><br><br> 
+
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-html-48.png" width="40" title="HTML5"/>
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-css-48.png" width="40" title="CSS3"/>
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-js-48.png" width="40" title=".javascript"/>
@@ -69,7 +69,7 @@
 </p>
 <br>
 
-<p align="center">🎨 <b>Design tools I love:</b><br><br>
+<p align="center">🎨 <b>My Design tools:</b><br><br>
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/figma.png" width="40" title="Figma"/>
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/ps.png" width="40" title="PS"/>
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-illustrator-48.png" width="40" title="Illustrator"/>
