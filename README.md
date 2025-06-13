@@ -32,8 +32,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/users/saracoding"><img width="64px" src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-discord-80.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="64px" src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-bluesky-48.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
 
 <p align="center" style="color: #F283A5; font-size: 20px;">✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿</p>
 
