@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/saramchq/saramchq/raw/main/assets/sailormoon.jpg" width="500" heigh="400" alt="Sailor Moon coding with Luna" />
+  <img src="https://github.com/saramchq/saramchq/raw/main/assets/sailormoon.jpg" width="700" heigh="600" alt="Sailor Moon coding with Luna" />
 </p>
 
 
