@@ -51,7 +51,7 @@
   </div>
 </p>
 
-<p align="center"><h3>💼 My Magical Toolbox</h3></p>
+<h3 align="center">💼 My Magical Toolbox</h3></p>
 
 <p align="center">🧪 <b>Technologies I've worked with:</b><br><br> 
 
