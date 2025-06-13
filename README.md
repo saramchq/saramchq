@@ -1,9 +1,30 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&pause=1000&color=F79BCF&center=true&vCenter=true&width=435&lines=Heyyy+I'm+Sara+%F0%9F%8C%B9+Welcome+to+my+space!;Creative+Dev+%2B+Designer+%F0%9F%8D%83;Coding+with+love+%26+magic+%F0%9F%A4%9F%E2%9C%A8)](https://git.io/typing-svg)
+<!-- Banner -->
+<p align="center">
+  <a href="https://github.com/saramchq">
+    <img src="https://github.com/saramchq/saramchq/raw/main/assets/sara_banner_960x540.png" alt="Sara Machuqueiro banner" width="100%" />
+  </a>
+</p>
 
+<!-- Typing SVG -->
+<p align="center">
+  <!-- Typing SVG baseado no projeto de DenverCoder1 -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Creative%20Dev%20%26%20UX%2FUI%20Designer;Java%20Lover%20%26%20Full-stack%20student;Always%20learning%20something%20new%20%F0%9F%8C%9F;Coding%20with%20love%20and%20a%20bit%20of%20magic%20%E2%9C%A8&font=Quicksand&center=true&width=500&height=45&color=F79BCF&vCenter=true&pause=1000&size=20" />
+  </a>
+</p>
 
-<p align="left">
-  <img src="https://github.com/saramchq/saramchq/blob/main/assets/sara.png" width="600" heigh="600" alt="Sara" /></p>
-
+<!-- Social icons -->
+<p align="center">
+  <a href="https://www.youtube.com/@saralunee" title="YouTube"><img width="32px" src="https://img.icons8.com/color/48/youtube-play.png"/></a>
+  &#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/saraluisam/" title="LinkedIn"><img width="32px" src="https://img.icons8.com/color/48/linkedin.png"/></a>
+  &#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/saracoding/" title="Instagram"><img width="32px" src="https://img.icons8.com/color/48/instagram-new--v1.png"/></a>
+  &#8287;&#8287;&#8287;
+  <a href="https://discord.com/users/saracoding" title="Discord"><img width="32px" src="https://img.icons8.com/color/48/discord-logo.png"/></a>
+  &#8287;&#8287;&#8287;
+  <a href="mailto:saaracoding@gmail.com" title="Gmail"><img width="32px" src="https://img.icons8.com/color/48/gmail-new.png"/></a>
+</p>
 
 ---
 
