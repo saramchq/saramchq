@@ -1,3 +1,7 @@
+<!--char-->
+<p align="center">
+  <img src="https://github.com/saramchq/saramchq/raw/main/assets/char.png" alt="Sara chibi character" width="180"/>
+</p>
 <!-- Typing SVG -->
 <p align="center">
   <!-- Typing SVG baseado no projeto de DenverCoder1 -->
@@ -6,10 +10,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/saramchq/saramchq/raw/main/assets/char.png" alt="Sara chibi character" width="180"/>
-</p>
-
+<!--status-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saramchq&show_icons=true&title_color=F283A5&icon_color=F283A5&text_color=F6D7E0&bg_color=00000000&border_radius=10" />
 </p>
