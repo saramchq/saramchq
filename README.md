@@ -15,7 +15,7 @@
 🎀 I enjoy turning dreamy ideas into beautiful and functional web experiences — from **prototyping** to **front-end & back-end** development.  
 🧁 Super **organized**, **detail-oriented**, and always learning something new!
 
-💬 I believe technology is like magic — and I'm here to craft ✨little spells✨ that make people’s lives easier and prettier.
+💬<i>Channeling my inner magical girl to code with love ✨💻🌙</i>
 
 ---
 
@@ -60,14 +60,14 @@
 
 ### ✨ Little Extras
 
-🌷 Currently learning: **Java Web Apps, UI Animation & GitHub magic**  
-🎧 Music while coding: Lofi, K-pop & rain sounds  
-🧸 Fun fact: I name my projects like they’re my kids 🍼
+🌷 Currently learning: **Java and Javascript**  
+🎧 Music while coding: Lo-fi, K-pop, rain sounds, classic & rock/metal
+🧸 Fun fact: When I was 13, I used to explore Blogspot templates and tweak the code (without even knowing what I was doing). Looking back, I realize tech has always been a part of me!
 
 ---
 
 > 🌙 "Creativity is intelligence having fun" — and I live by that 💖
-> <p align="center"><i>Channeling my inner magical girl to code with love ✨💻🌙</i></p>
+
 
 ---
 
