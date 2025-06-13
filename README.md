@@ -20,7 +20,7 @@
   <a href="#"><img width="32px" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="<4"><img width="32px" src="https://i.imgur.com/PpLeD3K.png"/></a>
-###
+
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
   <div style="flex: 1; min-width: 250px; max-width: 500px;">
