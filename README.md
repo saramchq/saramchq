@@ -79,19 +79,19 @@
 
 <div align="left">
   <a href="https://www.youtube.com/@saralunee" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF69B4&logoColor=white&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=F283A5&logoColor=white&style=for-the-badge" height="35"/>
   </a>
   <a href="https://www.instagram.com/saracoding/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FF69B4&logoColor=white&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=F283A5&logoColor=white&style=for-the-badge" height="35"/>
   </a>
   <a href="https://discordapp.com/users/saracoding" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=DA70D6&logoColor=white&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=F283A5&logoColor=white&style=for-the-badge" height="35"/>
   </a>
   <a href="mailto:saaracoding@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FFB6C1&logoColor=white&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=F283A5&logoColor=white&style=for-the-badge" height="35"/>
   </a>
   <a href="https://www.linkedin.com/in/saraluisam/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=FFC0CB&logoColor=white&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=F283A5&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 </div>
 
