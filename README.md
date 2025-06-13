@@ -50,7 +50,7 @@
     <p><i>Channeling my inner magical girl to code with love ✨💻🌙</i></p>
   </div>
 </p>
----
+
 <h3>💼 My Magical Toolbox</h3>
 
 🧪 <b>Technologies I've worked with:</b><br><br>
@@ -76,7 +76,7 @@
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-illustrator-48.png" width="40" title="Illustrator"/>
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/premiere.png" width="40" title="Premiere"/>
 
-### 🌐 Let's Be Friends!
+<p align="center"> 🌐 Let's Be Friends!</p>
 
 <p align="center">
   <a href="https://www.youtube.com/@saralunee">
