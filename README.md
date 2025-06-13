@@ -29,20 +29,15 @@
 
 ---
 
-### 🛠️ My Magical Toolbox
+### 🧰 My Magical Toolbox
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
-</div>
+| Language | Framework/Tools | Design |
+|----------|------------------|--------|
+| ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg =30x30) HTML5 | ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg =30x30) Java | ![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg =30x30) Figma |
+| ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg =30x30) CSS3 | ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg =30x30) PHP |  |
+| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg =30x30) Python | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg =30x30) MySQL |  |
+| ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg =30x30) C | ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg =30x30) C# |  |
+| ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg =30x30) C++ |  |  |
 
 ---
 
