@@ -72,5 +72,6 @@ Looking back, I realize tech has always been a part of me!</p>
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=saramchq&theme=rose_pine&border_radius=10&fire=EB6383&ring=F79BCF&dates=F2A2BA)](https://git.io/streak-stats)
+![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=saramchq&show_icons=true&title_color=F79BCF&icon_color=F79BCF&text_color=F6D7E0&bg_color=00000000&border_radius=10)
+
 
