@@ -9,26 +9,17 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@saralunee" title="YouTube">
-    <img width="36px" src="https://img.icons8.com/pastel-glyph/64/f79bcf/youtube-play--v1.png"/>
-  </a>
-  &#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/saraluisam/" title="LinkedIn">
-    <img width="36px" src="https://img.icons8.com/pastel-glyph/64/f79bcf/linkedin--v2.png"/>
-  </a>
-  &#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/saracoding/" title="Instagram">
-    <img width="36px" src="https://img.icons8.com/pastel-glyph/64/f79bcf/instagram-new--v2.png"/>
-  </a>
-  &#8287;&#8287;&#8287;
-  <a href="https://discord.com/users/saracoding" title="Discord">
-    <img width="36px" src="https://img.icons8.com/pastel-glyph/64/f79bcf/discord-new--v1.png"/>
-  </a>
-  &#8287;&#8287;&#8287;
-  <a href="mailto:saaracoding@gmail.com" title="Gmail">
-    <img width="36px" src="https://img.icons8.com/pastel-glyph/64/f79bcf/gmail--v1.png"/>
-  </a>
-</p>
+  <a href="https://www.youtube.com/@saralunee"><img width="32px" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/saraluisam/"><img width="32px" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/saracoding"><img width="32px" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/users/saracoding"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#"><img width="32px" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="<4"><img width="32px" src="https://i.imgur.com/PpLeD3K.png"/></a>
 
 
 
