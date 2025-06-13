@@ -56,8 +56,8 @@
 🧪 <b>Technologies I've worked with:</b><br><br>
 
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-html-48.png" width="40" title="HTML5"/>
-<img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-js-48.png" width="40" title="CSS3"/>
-<img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-java-58.png" width="40" title=".javascript"/>
+<img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-css-48.png" width="40" title="CSS3"/>
+<img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-js-48.png" width="40" title=".javascript"/>
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-cs-48.png" width="40" title="C#"/>
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-c-plus-plus-48.png" width="40" title="C++"/>
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-php-48.png" width="40" title="PHP"/>
