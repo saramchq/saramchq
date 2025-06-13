@@ -36,7 +36,7 @@
 <p align="center" style="color: #F283A5; font-size: 20px;">✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿</p>
 
 
-
+<p align="center">
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
   <div style="flex: 1; min-width: 250px; max-width: 500px;">
@@ -49,7 +49,7 @@
     </p>
     <p><i>Channeling my inner magical girl to code with love ✨💻🌙</i></p>
   </div>
-
+</p>
 ---
 <h3>💼 My Magical Toolbox</h3>
 
