@@ -116,22 +116,3 @@ Looking back, I realize tech has always been a part of me!</p>
 
 ---
 
-
-hello! i really like music 🎧
-
-<h1>Now Playing:</h1>
-
-<p align="center">
-  <a href="https://open.spotify.com/track/TRUE-URL">
-    <img src="https://github.com/saramchq/saramchq/raw/main/assets/now-playing-true-yoari.gif" alt="Now Playing: TRUE - YOARI" width="300"/>
-  </a>
-</p>
-
-<p align="center">
-  🖤 True – YOARI
-</p>
-
-<p align="center">
-  <i>Inspired by <a href="https://github.com/andyruwruw/andyruwruw">andyruwruw</a>'s now-playing idea</i>
-</p>
-
