@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=F79BCF&center=true&vCenter=true&width=435&lines=Heyyy+%F0%9F%91%97+I'm+Sara!;Designer+%E2%9C%A8+Dev+%F0%9F%92%BB+Dreamer+%F0%9F%8C%9C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&pause=1000&color=F79BCF&center=true&vCenter=true&width=435&lines=Heyyy+I'm+Sara+%F0%9F%8C%B9+Welcome+to+my+space!;Creative+Dev+%2B+Designer+%F0%9F%8D%83;Coding+with+love+%26+magic+%F0%9F%A4%9F%E2%9C%A8)](https://git.io/typing-svg)
+
 
 <p align="center">
   <img src="https://github.com/saramchq/saramchq/blob/main/assets/sailormoon.jpg"/>
