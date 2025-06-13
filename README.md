@@ -6,10 +6,6 @@
 
 
 ---
-  <div style="flex: 1; min-width: 250px; max-width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=saramchq&show_icons=true&title_color=F79BCF&icon_color=F79BCF&text_color=F6D7E0&bg_color=00000000&border_radius=10" />
-  </div>
-
 
 ###
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
@@ -25,6 +21,10 @@
     <p><i>Channeling my inner magical girl to code with love ✨💻🌙</i></p>
   </div>
 
+
+  <div style="flex: 1; min-width: 250px; max-width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=saramchq&show_icons=true&title_color=F79BCF&icon_color=F79BCF&text_color=F6D7E0&bg_color=00000000&border_radius=10" />
+  </div>
 
 
 ---
