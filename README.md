@@ -1,75 +1,61 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79BCF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Sara+%F0%9F%8C%B9+UX%2FUI+Designer+%2B+Dev!;Welcome+to+my+creative+playground!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79BCF&width=435&lines=Helloo!+I'm+Sara+%E2%9C%A8%F0%9F%8D%83)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="200" />
+</p>
 
-<p align="left">I'm Sara, and I have a background in Multimedia, UX/UI Design, and Programming. I have hands-on experience in developing web applications from prototyping and user experience planning to the technical implementation of both front-end and back-end.
+---
 
-Proactive and highly organized, I’m comfortable working with deadlines and adapting to a wide range of creative and technical challenges. My strong attention to detail and refined visual sense allow me to build digital solutions that balance logic, functionality, and aesthetics.
+### 🌸 About Me
 
-I’m driven by curiosity and a deep passion for continuous learning.
+✨ I’m Sara — a **multidisciplinary designer & developer** with a background in **Multimedia**, **UX/UI Design**, and **Programming**.  
+🎯 I specialize in crafting digital experiences from **prototyping** to **front-end and back-end** implementation.  
+🧠 Organized, curious, and creatively-driven — I'm always learning and pushing boundaries.  
+🎨 I believe **technology is an extension of creativity**, and I use it to build meaningful, beautiful, and functional solutions.
 
-I believe technology is an extension of creativity and within it, I find endless opportunities to grow, express myself, and turn ideas into meaningful, real-world experiences. 💻❤️</p>
-###
-───────────── ⋆ ˚｡⋆୨♡୧⋆｡˚ ⋆ ─────────────── ⋆ ˚｡⋆୨♡୧⋆｡˚ ⋆ ─────────────── ⋆ ˚｡⋆୨♡୧⋆｡˚ ⋆ ─────────────
-###
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75BB8&width=435&lines=Oii+!+Eu+sou+a+Sara+%E2%9C%A8%F0%9F%8D%83)](https://git.io/typing-svg)
+---
 
-<p align="left">O meu nome é Sara e sou formada em Multimédia, UX/UI Design e Programação. Tenho experiência prática no desenvolvimento de aplicações web, desde a prototipagem e planeamento da experiência do utilizador até à implementação técnica, tanto no front-end como no back-end.
+### 🔧 Tech Stack
 
-Proativa e muito organizada, estou habituada a trabalhar com prazos e a adaptar-me a diferentes desafios criativos e tecnológicos. Tenho uma elevada atenção ao detalhe e uma sensibilidade visual desenvolvida, o que me permite criar soluções digitais que aliam lógica, funcionalidade e estética.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
+</div>
 
-Sou movida pela minha curiosidade e gigantesca vontade de aprender sempre mais!
+---
 
-Acredito que a tecnologia é uma extensão da criatividade e é nela que encontro infinitas possibilidades para crescer, expressar e transformar ideias em experiências reais!💻♥️</p>
-
-
-###
+### 💌 Let's Connect!
 
 <div align="left">
   <a href="https://www.youtube.com/@saralunee" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35"/>
   </a>
   <a href="https://www.instagram.com/saracoding/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35"/>
   </a>
-  <a href="@saracoding" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://discordapp.com/users/saracoding" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35"/>
   </a>
-  <a href="saaracoding@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:saaracoding@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
   </a>
   <a href="https://www.linkedin.com/in/saraluisam/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-</div>
 
-###
+---
+
