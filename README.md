@@ -15,7 +15,7 @@
 
 <!-- Redes sociais com ícones rosa -->
 <p align="center">
-  <a href="https://www.youtube.com/@saralunee" title="YouTube">
+  <a href="" title="YouTube">
     <img width="36px" src="https://img.icons8.com/pastel-glyph/64/f75bb8/youtube-play--v1.png"/>
   </a>
   &#8287;&#8287;&#8287;
@@ -36,6 +36,19 @@
   </a>
 </p>
 
+
+<p align="center">
+  <a href="https://www.youtube.com/@saralunee"><img width="32px" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/saraluisam/"><img width="32px" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/saracoding"><img width="32px" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/users/saracoding"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#"><img width="32px" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="<4"><img width="32px" src="https://i.imgur.com/PpLeD3K.png"/></a>
 ---
 
 ###
