@@ -13,30 +13,6 @@
   </a>
 </p>
 
-<!-- Redes sociais com ícones rosa -->
-<p align="center">
-  <a href="" title="YouTube">
-    <img width="36px" src="https://img.icons8.com/pastel-glyph/64/f75bb8/youtube-play--v1.png"/>
-  </a>
-  &#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/saraluisam/" title="LinkedIn">
-    <img width="36px" src="https://img.icons8.com/pastel-glyph/64/f79bcf/linkedin--v2.png"/>
-  </a>
-  &#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/saracoding/" title="Instagram">
-    <img width="36px" src="https://img.icons8.com/pastel-glyph/64/f79bcf/instagram-new--v2.png"/>
-  </a>
-  &#8287;&#8287;&#8287;
-  <a href="https://discord.com/users/saracoding" title="Discord">
-    <img width="36px" src="https://img.icons8.com/ios-filled/50/f79bcf/discord-logo.png"/>
-  </a>
-  &#8287;&#8287;&#8287;
-  <a href="mailto:saaracoding@gmail.com" title="Gmail">
-    <img width="36px" src="https://img.icons8.com/ios-filled/50/f75bb8/gmail--v1.png"/>
-  </a>
-</p>
-
-
 <p align="center">
   <a href="https://www.youtube.com/@saralunee"><img width="32px" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
