@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@saralunee"><img width="32px" src="https://img.icons8.com/?size=100&id=WVL_GQzKU8G_&format=png&color=000000"/></a>
+  <a href="https://www.youtube.com/@saralunee"><img width="50px" src="https://img.icons8.com/?size=100&id=WVL_GQzKU8G_&format=png&color=000000"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/saraluisam/"><img width="32px" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
