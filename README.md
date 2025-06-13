@@ -12,27 +12,24 @@
   <a href="https://www.youtube.com/@saralunee" title="YouTube">
     <img width="36px" src="https://img.icons8.com/pastel-glyph/64/f79bcf/youtube-play--v1.png"/>
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/saraluisam/" title="LinkedIn">
     <img width="36px" src="https://img.icons8.com/pastel-glyph/64/f79bcf/linkedin--v2.png"/>
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/saracoding" title="Twitter">
-    <img width="36px" src="https://img.icons8.com/ios-filled/50/f79bcf/twitterx--v1.png"/>
+  &#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/saracoding/" title="Instagram">
+    <img width="36px" src="https://img.icons8.com/pastel-glyph/64/f79bcf/instagram-new--v2.png"/>
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;&#8287;&#8287;
   <a href="https://discord.com/users/saracoding" title="Discord">
-    <img width="36px" src="https://img.icons8.com/ios-filled/50/f79bcf/discord-logo.png"/>
+    <img width="36px" src="https://img.icons8.com/pastel-glyph/64/f79bcf/discord-new--v1.png"/>
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;&#8287;&#8287;
   <a href="mailto:saaracoding@gmail.com" title="Gmail">
-    <img width="36px" src="https://img.icons8.com/ios-filled/50/f79bcf/gmail--v1.png"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/saracoding" title="Ko-fi">
-    <img width="36px" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/f79bcf/external-ko-fi-complementary-platform-for-creators-to-earn-from-their-content-logo-bold-tal-revivo.png"/>
+    <img width="36px" src="https://img.icons8.com/pastel-glyph/64/f79bcf/gmail--v1.png"/>
   </a>
 </p>
+
 
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
