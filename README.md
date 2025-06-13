@@ -63,8 +63,8 @@
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-sql-48.png" width="40" title="MySQL"/>
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-python-64.png" width="40" title="Python"/>
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-c-48.png" width="40" title="C"/>
-<img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-c%23-50.png" width="40" title="C#"/>
-<img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-c-50.png" width="40" title="C++"/>
+<img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-cs-48.png" width="40" title="C#"/>
+<img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-c-plus-plus-48.png" width="40" title="C++"/>
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-.net-32.png" width="40" title=".NET"/>
 <br><br>
 
