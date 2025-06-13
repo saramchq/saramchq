@@ -15,7 +15,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/saracoding"><img width="32px" src="https://img.icons8.com/?size=100&id=42859&format=png&color=000000"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/users/saracoding"><img width="32px" src="https://img.icons8.com/?size=100&id=ETDIN5A37vST&format=png&color=000000"/></a>
+  <a href="https://discord.gg/users/saracoding"><img width="32px" src="https://img.icons8.com/dusk/64/discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="32px" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
