@@ -62,7 +62,7 @@
 
 🌷 Currently learning: **Java and Javascript**  
 🎧 Music while coding: Lo-fi, K-pop, rain sounds, classic & rock/metal
-🧸 Fun fact: When I was 13, I used to explore Blogspot templates and tweak the code (without even knowing what I was doing). Looking back, I realize tech has always been a part of me!
+<p>🧸 Fun fact: When I was 13, I used to explore Blogspot templates and tweak the code (without even knowing what I was doing). Looking back, I realize tech has always been a part of me!</p>
 
 ---
 
