@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/saramchq/saramchq/blob/main/assets/sailormoon.jpg"/>
+  <img src="https://github.com/saramchq/saramchq/blob/main/assets/sailormoon.jpg" width: 500px; heigh: 400px;/>
 </p>
 
 
@@ -83,6 +83,5 @@ Looking back, I realize tech has always been a part of me!</p>
 
 ---
 
-![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=saramchq&show_icons=true&title_color=F79BCF&icon_color=F79BCF&text_color=F6D7E0&bg_color=00000000&border_radius=10)
 
 
