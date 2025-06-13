@@ -54,7 +54,7 @@
 <h3>💼 My Magical Toolbox</h3>
 
 🧪 <b>Technologies I've worked with:</b><br><br>
-
+<p align="center">
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-html-48.png" width="40" title="HTML5"/>
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-css-48.png" width="40" title="CSS3"/>
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-js-48.png" width="40" title=".javascript"/>
@@ -66,6 +66,7 @@
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-c-48.png" width="40" title="C"/>
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-.net-32.png" width="40" title=".NET"/>
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-java-58.png" width="40" title=".java"/>
+</p>
 <br><br>
 
 
@@ -78,22 +79,23 @@
 ### 🌐 Let's Be Friends!
 
 <p align="center">
-  <a href="https://www.youtube.com/@saralunee" target="_blank">
+  <a href="https://www.youtube.com/@saralunee">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=F283A5&logoColor=white&style=for-the-badge" height="35"/>
-  </a>&nbsp;
-  <a href="https://www.instagram.com/saracoding/" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/saracoding/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=F283A5&logoColor=white&style=for-the-badge" height="35"/>
-  </a>&nbsp;
-  <a href="https://discordapp.com/users/saracoding" target="_blank">
+  </a>
+  <a href="https://discordapp.com/users/saracoding">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=F283A5&logoColor=white&style=for-the-badge" height="35"/>
-  </a>&nbsp;
-  <a href="mailto:saaracoding@gmail.com" target="_blank">
+  </a>
+  <a href="mailto:saaracoding@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=F283A5&logoColor=white&style=for-the-badge" height="35"/>
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/saraluisam/" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/saraluisam/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=F283A5&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 </p>
+
 
 ---
 
