@@ -8,6 +8,10 @@
   </a>
 </p>
 
+ <div style="flex: 1; min-width: 250px; max-width: 400px; align-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=saramchq&show_icons=true&title_color=F79BCF&icon_color=F79BCF&text_color=F6D7E0&bg_color=00000000&border_radius=10" />
+  </div>
+<br>
 <p align="center">
   <a href="https://www.youtube.com/@saralunee"><img width="64px" src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-youtube-48.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
