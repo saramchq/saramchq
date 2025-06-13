@@ -30,23 +30,31 @@
 ---
 ### 💼 My Magical Toolbox
 
-🧪 Technologies I've worked with:
-![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg) 
-![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)
-![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
-![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
-🖋️ `VB.NET`, `ASP.NET`
+🧪 <b>Technologies I've worked with:</b><br>
 
-🚀 **Currently learning deeply:**
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)  
-<sub><i>My goal is to become an expert in Java backend & web development 🌸</i></sub>
+<img src="https://img.icons8.com/color/48/html-5--v1.png" width="30"/> 
+<img src="https://img.icons8.com/color/48/css3.png" width="30"/> 
+<img src="https://img.icons8.com/color/48/javascript--v1.png" width="30"/> 
+<img src="https://img.icons8.com/color/48/php.png" width="30"/> 
+<img src="https://img.icons8.com/color/48/mysql-logo.png" width="30"/> 
+<img src="https://img.icons8.com/color/48/python--v1.png" width="30"/> 
+<img src="https://img.icons8.com/color/48/c-programming.png" width="30"/> 
+<img src="https://img.icons8.com/color/48/c-sharp-logo.png" width="30"/> 
+<img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="30"/> 
+<img src="https://img.icons8.com/color/48/net-framework.png" width="30"/>  
+<span style="font-size: 14px;">VB.NET / ASP.NET</span>
 
-🎨 **Also love designing with:**  
-![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg)
+<br><br>
+
+🚀 <b>Currently focusing on:</b><br>
+<img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" width="30"/> 
+<span style="font-size: 14px;">Becoming a Java expert 💻🌸</span>
+
+<br><br>
+
+🎨 <b>Design tools I love:</b><br>
+<img src="https://img.icons8.com/color/48/figma--v1.png" width="30"/> 
+
 
 
 ### 🌐 Let's Be Friends!
