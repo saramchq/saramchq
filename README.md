@@ -36,9 +36,7 @@
 </p>
 
 <!-- Divider -->
-<p align="center" style="color: #F283A5; font-size: 20px;">
-  ✿・☁️・✿・☁️・✿・☁️・✿・☁️・✿・☁️・✿
-</p>
+<p align="center" style="color: #F283A5; font-size: 20px;">✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿</p>
 
 <!-- About Me Section -->
 <h3 align="center">💕 About Me</h3>
@@ -87,5 +85,5 @@ Looking back, I realize tech has always been a part of me!
 
 <!-- Quote -->
 <blockquote align="center">
-  ✡ "Creativity is intelligence having fun" — and I live by that 💖
+"Creativity is intelligence having fun" — and I live by that 💖
 </blockquote>
