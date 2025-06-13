@@ -51,9 +51,9 @@
   </div>
 </p>
 
-<h3>💼 My Magical Toolbox</h3>
+<p align="center"><h3>💼 My Magical Toolbox</h3></p>
 
-🧪 <b>Technologies I've worked with:</b><br><br>
+<p align="center">🧪 <b>Technologies I've worked with:</b><br><br></p>
 <p align="center">
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-html-48.png" width="40" title="HTML5"/>
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-css-48.png" width="40" title="CSS3"/>
@@ -67,15 +67,15 @@
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-.net-32.png" width="40" title=".NET"/>
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-java-58.png" width="40" title=".java"/>
 </p>
-<br><br>
+<br>
 
-
-🎨 <b>Design tools I love:</b><br><br>
+<p align="center">🎨 <b>Design tools I love:</b><br><br>
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/figma.png" width="40" title="Figma"/>
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/ps.png" width="40" title="PS"/>
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-illustrator-48.png" width="40" title="Illustrator"/>
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/premiere.png" width="40" title="Premiere"/>
-
+</p>
+<br>
 <p align="center"> 🌐 Let's Be Friends!</p>
 
 <p align="center">
