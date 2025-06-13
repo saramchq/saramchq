@@ -1,9 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <a href="https://github.com/saramchq">
-    <img src="https://github.com/saramchq/saramchq/raw/main/assets/sara_banner_960x540.png" alt="Sara Machuqueiro banner" width="100%" />
-  </a>
-</p>
+
 
 <!-- Typing SVG -->
 <p align="center">
