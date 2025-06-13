@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=36&pause=1000&color=F283A5&center=true&vCenter=true&width=400&lines=Hey%2C+I'm+Sara!+%F0%9F%8C%B9" alt="Typing SVG" />
+  </a>
+</p>
+
 <!--char-->
 <p align="center">
   <img src="https://github.com/saramchq/saramchq/raw/main/assets/char.png" alt="Sara chibi character" width="180"/>
