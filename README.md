@@ -67,6 +67,7 @@
 ---
 
 > 🌙 "Creativity is intelligence having fun" — and I live by that 💖
+> <p align="center"><i>Channeling my inner magical girl to code with love ✨💻🌙</i></p>
 
 ---
 
