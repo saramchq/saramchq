@@ -34,7 +34,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 <p align="center" style="color: #F283A5; font-size: 20px;">✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿</p>
-
+<br>
 
 <p align="center">
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
@@ -95,10 +95,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=F283A5&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 </p>
-
-
-
-
+<br>
 ✨ Little Extras
 
 🌷 Currently learning: **Java and Javascript**  
