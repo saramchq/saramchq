@@ -85,7 +85,6 @@
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/figma.png" width="40" title="Figma"/>
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/ps.png" width="40" title="PS"/>
 <img src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-illustrator-48.png" width="40" title="Illustrator"/>
-<img src="https://github.com/saramchq/saramchq/blob/main/assets/premiere.png" width="40" title="Premiere"/>
 </p>
 
 <br>
