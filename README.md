@@ -47,10 +47,10 @@
       🎀 I enjoy turning dreamy ideas into beautiful and functional web experiences — from <b>prototyping</b> to <b>front-end & back-end</b> development.<br>
       🧁 Super <b>organized</b>, <b>detail-oriented</b>, and always learning something new!
     </p>
-    <p><i>Channeling my inner magical girl to code with love ✨💻🌙</i></p>
+    <p align="center"><i>Channeling my inner magical girl to code with love ✨💻🌙</i></p>
   </div>
 </p>
-
+<br>
 <h3 align="center">💼 My Magical Toolbox</h3></p>
 
 <p align="center">🧪 <b>Technologies I've worked with:</b><br><br> 
