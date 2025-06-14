@@ -9,6 +9,11 @@
 <p align="center">
   <img src="https://github.com/saramchq/saramchq/raw/main/assets/char.png" alt="Sara chibi character" width="180"/>
 </p>
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saramchq&color=F283A5&style=for-the-badge" alt="Profile views" />
+</p>
+
 <!-- Typing SVG -->
 <p align="center">
   <!-- Typing SVG baseado no projeto de DenverCoder1 -->
