@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://github.com/saramchq/saramchq/blob/main/assets/22222.png" alt="Sara" width="600"/>
 </p>
+<!--welcome-->
 <br> <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Make+yourself+at+home+%E2%9C%A8;Feel+free+to+explore+my+projects+%F0%9F%8C%B9;Let%E2%80%99s+build+something+magical+%F0%9F%A7%84&font=Quicksand&center=true&vCenter=true&pause=1000&width=500&height=45&color=F283A5&size=20" alt="Typing SVG welcome"/>
@@ -20,11 +21,11 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <!-- Typing SVG baseado no projeto de DenverCoder1 -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Creative%20Dev%20%26%20UX%2FUI%20Designer;Always%20learning%20something%20new%20%F0%9F%8C%9F;Coding%20with%20love%20and%20a%20bit%20of%20magic%20%E2%9C%A8&font=Quicksand&center=true&width=500&height=45&color=F79BCF&vCenter=true&pause=1000&size=20" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Make+yourself+at+home+%E2%9C%A8;Feel+free+to+explore+my+projects+%F0%9F%8C%B9;Let%E2%80%99s+build+something+magical+%F0%9F%A7%84&font=Quicksand&center=true&vCenter=true&pause=1000&width=500&height=45&color=F283A5&size=20" alt="Typing SVG welcome"/>
   </a>
 </p>
+
 
 <!--status-->
 <p align="center">
