@@ -47,7 +47,7 @@
       🎀 I enjoy turning dreamy ideas into beautiful and functional web experiences — from <b>prototyping</b> to <b>front-end & back-end</b> development.<br>
       🧁 Super <b>organized</b>, <b>detail-oriented</b>, and always learning something new!
     </p>
-    <p align="center"><i>Channeling my inner magical girl to code with love ✨💻🌙</i></p>
+    <p><i>Channeling my inner magical girl to code with love ✨💻🌙</i></p>
   </div>
 </p>
 <br>
@@ -97,16 +97,15 @@
 </p>
 
 
----
 
-### ✨ Little Extras
+
+✨ Little Extras
 
 🌷 Currently learning: **Java and Javascript**  
 🎧 Music while coding: Lo-fi, K-pop, rain sounds, classic & rock/metal<br>
 🧸 Fun fact: When I was 13, I used to explore Blogspot templates and tweak the code (without even knowing what I was doing). <br>
 Looking back, I realize tech has always been a part of me!</p>
 
----
 
-> 🌙 "Creativity is intelligence having fun" — and I live by that 💖
+🌙 "Creativity is intelligence having fun" — and I live by that 💖
 
