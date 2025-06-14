@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://github.com/saramchq/saramchq/blob/main/assets/22222.png" alt="Sara" width="600"/>
 </p>
+
+<p align="center" style="color: #F283A5; font-size: 20px;">✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿</p>
+<br>
 <!--char-->
 <p align="center">
   <img src="https://github.com/saramchq/saramchq/raw/main/assets/char.png" alt="Sara chibi character" width="200"/>
