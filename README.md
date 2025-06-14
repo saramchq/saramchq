@@ -104,5 +104,5 @@
 Looking back, I realize tech has always been a part of me!</p>
 
 
-🌙 "Creativity is intelligence having fun" — and I live by that 💖
+🌙 <i>"Creativity is intelligence having fun" — and I live by that</i> 💖
 
