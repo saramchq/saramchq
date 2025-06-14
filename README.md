@@ -1,11 +1,9 @@
 <p align="center">
   <img src="https://github.com/saramchq/saramchq/blob/main/assets/22222.png" alt="Sara" width="600"/>
 </p>
-
-
 <!--char-->
 <p align="center">
-  <img src="https://github.com/saramchq/saramchq/raw/main/assets/char.png" alt="Sara chibi character" width="180"/>
+  <img src="https://github.com/saramchq/saramchq/raw/main/assets/char.png" alt="Sara chibi character" width="200"/>
 </p>
 <br>
 <p align="center">
