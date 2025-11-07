@@ -35,16 +35,7 @@
 </p>
 
 <br>
-<p align="center">
-  <a href="https://www.youtube.com/@saralunee"><img width="64px" src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-youtube-48.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/saraluisam/"><img width="64px" src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-linkedin-48.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/saracoding"><img width="64px" src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-twitter-squared-64.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/users/saracoding"><img width="64px" src="https://github.com/saramchq/saramchq/blob/main/assets/icons8-discord-80.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-<br><br>
+
 <p align="center" style="color: #F283A5; font-size: 20px;">✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿</p>
 <br>
 
