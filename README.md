@@ -13,7 +13,7 @@
 
 <!--char-->
 <p align="center">
-  <img src="https://github.com/saramchq/saramchq/blob/d3c66efdb5567cea9176694b0f80bc107344f1ad/assets/avatar_11zon.png" alt="Sara chibi character" width="600"/>
+  <img src="https://github.com/saramchq/saramchq/blob/d3c66efdb5567cea9176694b0f80bc107344f1ad/assets/avatar_11zon.png" alt="Sara chibi character" width="400"/>
 </p>
 <br>
 <p align="center">
