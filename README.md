@@ -1,4 +1,5 @@
 <p align="center" style="color: #F283A5; font-size: 20px;">💀･ﾟﾟ･💜･ﾟﾟ･💀･ﾟﾟ･💜･ﾟﾟ･💀･ﾟﾟ･💜･ﾟﾟ･💀･ﾟﾟ･💜･ﾟﾟ･💀･ﾟﾟ･💜･ﾟﾟ･💀･ﾟﾟ･💜･ﾟﾟ･</p>
+<br>
 <!--hey im sara-->
 <p align="center">
   <img src="https://github.com/saramchq/saramchq/blob/main/assets/logovoidline.png" alt="Sara" width="600"/>
