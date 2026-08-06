@@ -1,4 +1,4 @@
-<p align="center" style="color: #F283A5; font-size: 20px;">✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿</p>
+<p align="center" style="color: #F283A5; font-size: 20px;">💀･ﾟﾟ･💜･ﾟﾟ･💀･ﾟﾟ･💜･ﾟﾟ･💀･ﾟﾟ･💜･ﾟﾟ･💀･ﾟﾟ･💜･ﾟﾟ･💀･ﾟﾟ･💜･ﾟﾟ･💀･ﾟﾟ･💜･ﾟﾟ･</p>
 <!--hey im sara-->
 <p align="center">
   <img src="https://github.com/saramchq/saramchq/blob/main/assets/22222.png" alt="Sara" width="600"/>
@@ -36,7 +36,7 @@
 
 <br>
 
-<p align="center" style="color: #F283A5; font-size: 20px;">✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿</p>
+<p align="center" style="color: #F283A5; font-size: 20px;">💀･ﾟﾟ･💜･ﾟﾟ･💀･ﾟﾟ･💜･ﾟﾟ･💀･ﾟﾟ･💜･ﾟﾟ･💀･ﾟﾟ･💜･ﾟﾟ･💀･ﾟﾟ･💜･ﾟﾟ･💀･ﾟﾟ･💜･ﾟﾟ･</p>
 <br>
 
 <p align="center">
@@ -90,4 +90,4 @@ Looking back, I realize tech has always been a part of me!</p>
 
 🌙 <i>"Creativity is intelligence having fun" — and I live by that</i> 💖
 <br><br><br>
-<p align="center" style="color: #F283A5; font-size: 20px;">✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿･ﾟﾟ･🌸･ﾟﾟ･✿</p><!--hey im sara-->
+<p align="center" style="color: #F283A5; font-size: 20px;">💀･ﾟﾟ･💜･ﾟﾟ･💀･ﾟﾟ･💜･ﾟﾟ･💀･ﾟﾟ･💜･ﾟﾟ･💀･ﾟﾟ･💜･ﾟﾟ･💀･ﾟﾟ･💜･ﾟﾟ･💀･ﾟﾟ･💜･ﾟﾟ･💀･ﾟﾟ･💜･ﾟﾟ💀･ﾟﾟ･</p><!--hey im sara-->
