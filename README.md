@@ -16,10 +16,15 @@
   <img src="https://github.com/saramchq/saramchq/blob/d3c66efdb5567cea9176694b0f80bc107344f1ad/assets/avatar_11zon.png" alt="Sara chibi character" width="400"/>
 </p>
 <br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saramchq&color=F283A5&style=for-the-badge" alt="Profile views" />
-</p>
 
+
+<!-- Typing SVG -->
+<p align="center">
+  <!-- Typing SVG baseado no projeto de DenverCoder1 -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Creative%20Dev%20%26%20UX%2FUI%20Designer;Always+learning+something+new+%F0%9F%8C%9F;Coding+with+love+and+a+bit+of+magic+%E2%9C%A8&font=Quicksand&center=true&width=500&height=45&color=9860C7&vCenter=true&pause=1000&size=20" />
+  </a>
+</p>
 
 
 <!--status-->
