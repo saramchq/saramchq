@@ -7,7 +7,7 @@
 <!--welcome-->
 <br> <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Make+yourself+at+home+%E2%9C%A8;Feel+free+to+explore+my+projects+%F0%9F%8C%B9;Let%E2%80%99s+build+something+magical+%F0%9F%A7%84&font=Quicksand&center=true&vCenter=true&pause=1000&width=500&height=45&color=F283A5&size=20" alt="Typing SVG welcome"/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Make+yourself+at+home+%E2%9C%A8;Feel+free+to+explore+my+projects+%F0%9F%8C%B9;Let%E2%80%99s+build+something+magical+%F0%9F%A7%84&font=Quicksand&center=true&vCenter=true&pause=1000&width=500&height=45&color=9860C7&size=20" alt="Typing SVG welcome"/>
   </a>
 </p>
 
