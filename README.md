@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saramchq&color=F283A5&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=saramchq&color=9860C7&style=for-the-badge" alt="Profile views" />
 </p>
 
 <!-- Typing SVG -->
