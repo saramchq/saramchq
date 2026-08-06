@@ -32,7 +32,7 @@
 
 <!--status-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saramchq&show_icons=true&title_color=F283A5&icon_color=F283A5&text_color=F6D7E0&bg_color=00000000&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saramchq&show_icons=true&title_color=F283A5&icon_color=9860C7&text_color=F6D7E0&bg_color=00000000&border_radius=10" />
 </p>
 
 <br>
